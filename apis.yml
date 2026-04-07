@@ -1,7 +1,11 @@
 aid: reynolds-american
-url: https://raw.githubusercontent.com/api-evangelist/reynolds-american/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/reynolds-american/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.reynolds-american.com
+description: >-
+  Reynolds American is the holding company of R.J. Reynolds Tobacco Company and other
+  tobacco subsidiaries, manufacturing and selling cigarette and other tobacco products.
