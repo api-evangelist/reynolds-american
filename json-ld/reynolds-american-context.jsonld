@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "rai": "https://www.reynolds-american.com/vocab/",
+
+    "Organization": "schema:Organization",
+    "Product": "schema:Product",
+    "brand": "schema:brand",
+    "subsidiary": "schema:parentOrganization",
+    "productType": "schema:category",
+    "name": "schema:name",
+    "description": "schema:description",
+    "ageRestricted": "rai:ageRestricted",
+    "regulatoryStatus": "rai:regulatoryStatus"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/reynolds-american/main/json-schema/reynolds-american-product-schema.json",
+  "title": "Reynolds American Tobacco Product",
+  "description": "Schema representing a tobacco product in the Reynolds American / R.J. Reynolds portfolio",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Product identifier"
+    },
+    "brand": {
+      "type": "string",
+      "description": "Brand name (e.g., Camel, Newport, Pall Mall, Natural American Spirit)",
+      "example": "Camel"
+    },
+    "subsidiary": {
+      "type": "string",
+      "enum": [
+        "R.J. Reynolds Tobacco Company",
+        "American Snuff Company",
+        "Santa Fe Natural Tobacco Company",
+        "R.J. Reynolds Vapor Company"
+      ],
+      "description": "Reynolds American subsidiary that manufactures the product"
+    },
+    "productType": {
+      "type": "string",
+      "enum": [
+        "Cigarette",
+        "Moist Snuff",
+        "Smokeless Tobacco",
+        "Electronic Cigarette",
+        "Cigar"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "description": "Full product name"
+    },
+    "ageRestricted": {
+      "type": "boolean",
+      "default": true,
+      "description": "All tobacco products require age verification (21+)"
+    },
+    "regulatoryStatus": {
+      "type": "string",
+      "description": "FDA regulatory status"
+    }
+  },
+  "required": ["brand", "subsidiary", "productType"]
+}

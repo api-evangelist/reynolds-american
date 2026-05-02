@@ -1,0 +1,95 @@
+vocabulary:
+  name: Reynolds American Vocabulary
+  description: >-
+    Company and domain vocabulary for Reynolds American Inc. and its tobacco
+    subsidiaries.
+  version: "1.0.0"
+  created: "2026-05-02"
+  modified: "2026-05-02"
+
+terms:
+  - term: Reynolds American
+    definition: >-
+      Reynolds American Inc., second-largest tobacco company in the United States,
+      subsidiary of British American Tobacco (BAT). Headquartered in
+      Winston-Salem, North Carolina.
+
+  - term: British American Tobacco (BAT)
+    definition: >-
+      UK-based multinational tobacco company that acquired Reynolds American in
+      2017, becoming full owner. BAT is one of the world's largest tobacco
+      companies by market capitalization.
+
+  - term: R.J. Reynolds Tobacco Company
+    definition: >-
+      Principal subsidiary of Reynolds American; manufactures and markets
+      cigarette brands including Camel, Newport, Pall Mall, Doral, Kool,
+      Salem, Misty, and Winston in the United States.
+
+  - term: American Snuff Company
+    definition: >-
+      Subsidiary of Reynolds American that manufactures moist snuff products
+      under the Grizzly and Kodiak brands.
+
+  - term: Santa Fe Natural Tobacco Company
+    definition: >-
+      Subsidiary of Reynolds American producing natural and additive-free
+      tobacco under the Natural American Spirit brand.
+
+  - term: R.J. Reynolds Vapor Company
+    definition: >-
+      Subsidiary of Reynolds American that manufactures electronic cigarettes
+      and vapor products.
+
+  - term: Camel
+    definition: >-
+      Flagship cigarette brand of R.J. Reynolds, one of the oldest and
+      most recognized tobacco brands in the United States.
+
+  - term: Newport
+    definition: >-
+      Menthol cigarette brand manufactured by R.J. Reynolds Tobacco Company,
+      the best-selling menthol cigarette brand in the United States.
+
+  - term: Pall Mall
+    definition: >-
+      Value-priced cigarette brand manufactured by R.J. Reynolds Tobacco Company.
+
+  - term: Natural American Spirit
+    definition: >-
+      Brand of additive-free cigarettes and roll-your-own tobacco marketed
+      as natural and organic tobacco products.
+
+  - term: FDA Regulation
+    definition: >-
+      Since 2009, tobacco products in the United States are regulated by the
+      U.S. Food and Drug Administration (FDA) Center for Tobacco Products under
+      the Family Smoking Prevention and Tobacco Control Act.
+
+  - term: MSA
+    definition: >-
+      Master Settlement Agreement — 1998 legal settlement between major tobacco
+      companies and U.S. state attorneys general, establishing ongoing
+      payment obligations and marketing restrictions.
+
+categories:
+  - name: Company Structure
+    terms:
+      - Reynolds American
+      - British American Tobacco (BAT)
+      - R.J. Reynolds Tobacco Company
+      - American Snuff Company
+      - Santa Fe Natural Tobacco Company
+      - R.J. Reynolds Vapor Company
+
+  - name: Brands
+    terms:
+      - Camel
+      - Newport
+      - Pall Mall
+      - Natural American Spirit
+
+  - name: Regulatory
+    terms:
+      - FDA Regulation
+      - MSA
