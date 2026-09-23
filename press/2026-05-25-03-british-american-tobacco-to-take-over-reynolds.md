@@ -1,7 +1,9 @@
 ---
 title: British American Tobacco to Take Over Reynolds ...
 url: https://www.nytimes.com/2017/01/17/business/dealbook/british-american-tobacco-reynolds-cigarettes-merger.html
-date: '2026-05-25'
+published: '2017-01-17'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Reynolds American" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Reynolds American companies plan to invest more than $3.2 ...
 url: https://www.facebook.com/ReynoldsAmericanInc/posts/reynolds-american-companies-plan-to-invest-more-than-32-billion-in-us-operations/1480126300788555/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Reynolds American" press release artificial intelligence'
 position: 2
 source: serpapi-google

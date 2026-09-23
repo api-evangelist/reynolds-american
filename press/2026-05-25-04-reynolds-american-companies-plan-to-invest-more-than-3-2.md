@@ -1,7 +1,9 @@
 ---
 title: Reynolds American companies plan to invest more than $3.2 ...
 url: https://www.instagram.com/reel/DVg18tRiX_r/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Reynolds American" press release artificial intelligence'
 position: 4
 source: serpapi-google

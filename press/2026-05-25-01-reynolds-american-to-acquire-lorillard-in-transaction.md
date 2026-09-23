@@ -1,7 +1,9 @@
 ---
 title: Reynolds American To Acquire Lorillard In Transaction ...
 url: https://www.prnewswire.com/news-releases/reynolds-american-to-acquire-lorillard-in-transaction-valued-at-274-billion-267143881.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Reynolds American" press release artificial intelligence'
 position: 1
 source: serpapi-google
